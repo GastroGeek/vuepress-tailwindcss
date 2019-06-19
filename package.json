@@ -1,0 +1,12 @@
+{
+  "name": "vuepress-tailwind",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^9.6.0",
+    "postcss-import": "^12.0.1",
+    "postcss-loader": "^3.0.0",
+    "tailwindcss": "^1.0.4"
+  }
+}
